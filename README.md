@@ -1,9 +1,9 @@
-# Next js with Context API framework
+# next js with context API framework
 
 ## Getting Started
+
+First, run the development server:
 
 ```bash
 npm run dev
 ```
-
-參考[連結](https://episyche.com/blog/how-to-use-context-api-in-a-nextjs-app)
